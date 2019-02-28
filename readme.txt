@@ -1,4 +1,9 @@
 
 Creating a new branch is quick and simple
 
-fast forward  bug fixed
+
+fast forward
+
+in the middle of work 
+
+done
